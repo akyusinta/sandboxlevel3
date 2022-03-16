@@ -26,7 +26,9 @@ SECRET_KEY = '039!+(1q+)22l-y26!8@azg!cbd2%0b(5yhm(o6_o@s$#h)0a7'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    'sinta-sandbox-lev3.herokuapp.com'
+]
 
 
 # Application definition
