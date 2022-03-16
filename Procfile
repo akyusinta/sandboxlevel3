@@ -1,0 +1,1 @@
+web: gunicorn Laporan_Level_3.wsgi
